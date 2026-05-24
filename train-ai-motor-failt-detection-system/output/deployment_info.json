@@ -1,0 +1,28 @@
+{
+  "input_scale": 0.0800117775797844,
+  "input_zero_point": 11,
+  "output_scale": 0.00390625,
+  "output_zero_point": -128,
+  "norm_mean": [
+    0.048073094338178635,
+    -0.18287691473960876,
+    0.907200038433075
+  ],
+  "norm_std": [
+    0.20944446325302124,
+    0.146852508187294,
+    0.08424602448940277
+  ],
+  "window_size": 200,
+  "n_channels": 3,
+  "sample_rate_hz": 100,
+  "stride_size": 50,
+  "classes": [
+    "Tat",
+    "Binh_thuong",
+    "Lech_tam"
+  ],
+  "n_classes": 3,
+  "test_accuracy_pct": 100.0,
+  "tflite_size_kb": 116.9
+}
